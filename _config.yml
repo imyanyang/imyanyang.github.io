@@ -1,0 +1,9 @@
+# Site settings
+title: Yan Yang
+author:
+  name: Yan Yang
+  email: yan.yang@queensu.ca
+description: "I think for the most part if you are really honest with yourself about what you want out of life, life gives it to you."
+
+# Build settings
+remote_theme: jekyll/minima
