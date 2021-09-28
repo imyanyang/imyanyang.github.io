@@ -6,7 +6,7 @@ PhD student in Finance, Queen's University.
 
 ## Research Interest:
 - Fixed Income Market
-- Banking
+- Financial Institutions
 - Innovation
 - Corporate Financial Distress
 
