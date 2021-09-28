@@ -11,4 +11,3 @@ PhD student in Finance, Queen's University.
 - Corporate Financial Distress
 
 
-{% include YanYang_image.jpg %}
