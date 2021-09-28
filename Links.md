@@ -5,4 +5,4 @@
 - [Canadian Couch Potato](https://canadiancouchpotato.com/)
 - [Annual Review of Financial Economics](https://www.annualreviews.org/journal/financial)
 - [Annual Review of Economics](https://www.annualreviews.org/journal/economics)
-- 
+
