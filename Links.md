@@ -1,3 +1,9 @@
+---
+layout: page
+title: Links
+---
+
+
 - [The Review of Financial Studies Blog](http://rfssfs.org/category/blog/)
 - [The Grumpy Economist](https://johnhcochrane.blogspot.com/)
 - [Fed Press Release](https://www.federalreserve.gov/newsevents/pressreleases.htm)
