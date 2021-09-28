@@ -1,0 +1,3 @@
+- [The Review of Financial Studies Blog](http://rfssfs.org/category/blog/)
+- [The Grumpy Economist](https://johnhcochrane.blogspot.com/)
+- [Canadian Couch Potato](https://canadiancouchpotato.com/)
