@@ -1,9 +1,9 @@
 # Site settings
 title: Yan Yang
 author:
-  name: Yan Yang
+  name: Yan Yang 2021
   email: yan.yang@queensu.ca
-description: "If you want, you can make a salience very noisy."
+description: "143 Union St, Kingston, ON K7L 3N6"
 
 # Build settings
 remote_theme: jekyll/minima
