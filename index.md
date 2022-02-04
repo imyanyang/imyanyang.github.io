@@ -12,9 +12,8 @@ Queen’s University, Smith School of Business
 
 
 ## Research Interest:
-- Fixed Income Market
-- Financial Institutions
-- Innovation
+- Applied Microeconometrics
+- Entrepreneurial Finance
 - Corporate Financial Distress
 
 
