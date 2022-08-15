@@ -5,6 +5,6 @@ Order: 2
 ---
 
 
-**COMM121 Introduction to Finance:
+`COMM121 Introduction to Finance` Fall 2022
 
 
