@@ -2,20 +2,13 @@
 layout: home 
 ---
 
-Welcome to my homepage! This site is under construction.
+I am a fifth-year Ph.D. student in Finance at Smith School of Business, Queen's University.
 
-## Education:
-Queen’s University, Smith School of Business
+My research interests include institutional investors, corporate financial distress, and fixed income market. 
 
-- Ph.D. Candidate in Finance
-- Advisor: Prof. [Wei Wang](https://www.profweiwang.com/) 
+`Email:` yan.yang@queensu.ca
 
-
-## Research Interest:
-- Applied Microeconometrics
-- Institutional Investors
-- Corporate Financial Distress
-- Fixed Income Market
+<a href="https://www.dropbox.com/s/2lljxob0pnmd1nw/YanYang_Aug2022.pdf?dl=0">`[Curriculum Vitae]`</a>
 
 
 
