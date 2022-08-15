@@ -2,7 +2,7 @@
 layout: home 
 ---
 
-I am a fifth-year Ph.D. student in Finance at Smith School of Business, Queen's University.
+I am a fifth-year Ph.D. candidate in Finance at Smith School of Business, Queen's University.
 
 My research interests include institutional investors, corporate financial distress, and fixed income market. I am particularly interested in understanding incentive and information problems in financial economics.
 
