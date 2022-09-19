@@ -1,6 +1,6 @@
 ---
 layout: post
-title: COMM 121 Intro to Finance --- Note 2
+title: COMM 121 Intro to Finance --- Note 2: About APR, EAR, Compounding Frequency, Payment Frequency, and Discount Rate
 tags:  post 2
 categories: demo
 ---
