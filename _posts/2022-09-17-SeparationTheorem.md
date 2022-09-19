@@ -1,6 +1,6 @@
 ---
 layout: post
-title: COMM 121 Intro to Finance --- Note 1
+title: COMM 121 Intro to Finance --- Note 1: About the Fisher Separation Theorem
 tags: first post
 categories: demo
 ---
