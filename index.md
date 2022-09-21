@@ -1,7 +1,7 @@
 ---
 layout: home 
 ---
-![Yan](https://www.dropbox.com/s/8z0adq6jaofjy1d/Yan.jpg?dl=0)
+![Yan](https://www.dropbox.com/s/8z0adq6jaofjy1d/Yan.jpg)
 
 
 I am a fifth-year Ph.D. candidate in Finance at Smith School of Business, Queen's University.
