@@ -4,7 +4,8 @@ layout: home
 
 
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/VAN_CAT.png/480px-VAN_CAT.png)
+![alt text](https://github.com/imyanyang/imyanyang.github.io/blob/master/_includes/Yan.jpg?raw=true)
+
 
 
 I am a fifth-year Ph.D. candidate in Finance at Smith School of Business, Queen's University.
