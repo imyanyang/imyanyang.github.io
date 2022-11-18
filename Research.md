@@ -21,5 +21,5 @@ Covered by the [The FinReg Blog](https://sites.law.duke.edu/thefinregblog/2021/0
 
 Unpacking Investment Banks in Chapter 11
 
-Do Hedge Funds Exploit Material Non-Public Information?
+Do Hedge Funds Exploit Material Nonpublic Information?
 
