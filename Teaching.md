@@ -13,4 +13,4 @@ Order: 2
 
 `Office Hours:` Mon. 2:00PM - 3:30PM; Wed. 10:30AM - 12:00PM. 
 
-`Final Exam Office Hours:` Please sign up via the Google Forms in D2L. Good luck!
+`Final Exam Office Hours:` Please sign up via the Google Form in D2L. Good luck!
