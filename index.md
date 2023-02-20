@@ -9,7 +9,7 @@ layout: home
 
 
 I am a fifth-year Ph.D. candidate in Finance at Smith School of Business, Queen's University.
-My research focus on EMPIRICAL Corporate Finance. I am passionate about documenting novel facts and uncovering economic forces with the help of econometric tools. 
+My research focus on EMPIRICAL Corporate Finance.
 
 `Email:` yan.yang@queensu.ca
 
