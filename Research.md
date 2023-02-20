@@ -2,6 +2,7 @@
 layout: page
 title: Research
 Order: 1
+published: false
 ---
 
 
@@ -19,7 +20,5 @@ Covered by the [The FinReg Blog](https://sites.law.duke.edu/thefinregblog/2021/0
 
 `Work in Progress:`
 
-Unpacking Investment Banks in Chapter 11
 
-Do Hedge Funds Exploit Material Nonpublic Information?
 
