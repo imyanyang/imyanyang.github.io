@@ -15,6 +15,9 @@ My research interests include institutional investors, corporate financial distr
 
 <a href="https://www.dropbox.com/s/2lljxob0pnmd1nw/YanYang_Aug2022.pdf?dl=0">`[Curriculum Vitae]`</a>
 
-## Posts:
+**[Google Scholar](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4747102)**
+
+
+## Posts and Notes:
 
 
