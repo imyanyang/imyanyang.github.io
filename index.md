@@ -18,6 +18,6 @@ My research focus on EMPIRICAL Corporate Finance. I am passionate about document
 **[Google Scholar](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4747102)**
 
 
-## Posts and Notes:
+
 
 
