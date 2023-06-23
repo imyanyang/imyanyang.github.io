@@ -20,6 +20,4 @@ My research focus on EMPIRICAL Corporate Finance. In particular, the interaction
 
 
 
-\href{http://pseudo.paper.link.me}{[paper]} \href{http://pseudo.code.link}{[project page]} 
-
 
