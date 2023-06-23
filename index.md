@@ -18,8 +18,8 @@ My research focus on EMPIRICAL Corporate Finance. In particular, the interaction
 
 **[Google Scholar](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4747102)**
 
-<a href="https://www.dropbox.com/s/42aipmdrig8z0qc/HedgeFundUCC_Slides_ABFER.pdf?dl=0">`[ABFER Slides]`</a>
 
 
+\href{http://pseudo.paper.link.me}{[paper]} \href{http://pseudo.code.link}{[project page]} 
 
 
