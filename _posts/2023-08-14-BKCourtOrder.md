@@ -6,12 +6,12 @@ categories: demo
 published: true
 ---
 
-I got the first court order in my life from a bankruptcy court but I did not broke! 
+I got the first court order in my life from a bankruptcy court but I did not broke:)
 
 
 ![alt text](https://github.com/imyanyang/imyanyang.github.io/blob/master/_includes/Court_Order.jpg?raw=true)
 
-One law clerk called me and offered me one year free access to documents at that court today! How nice, thank you sir!
+One law clerk called me and offered me one year free access to documents at that court today. How nice, thank you sir!
 
 It is hard to imagine that legal professionals still prefer physical paper letters. 
 
