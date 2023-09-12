@@ -3,7 +3,7 @@ layout: post
 title: COMM 121 Intro to Finance --- Note 2
 tags:  post 2
 categories: demo
-published: false
+published: true
 ---
 
 
