@@ -3,7 +3,7 @@ layout: post
 title: COMM 121 Intro to Finance --- Note 1
 tags: first post
 categories: demo
-published: false
+published: true
 ---
 
 Welcome to Yan's Blog! 
