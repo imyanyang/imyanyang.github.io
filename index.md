@@ -30,4 +30,4 @@ Covered by the [The FinReg Blog](https://sites.law.duke.edu/thefinregblog/2021/0
 
 `Yan's BLOG:`
 
-
+<a href="https://www.dropbox.com/scl/fi/poybbttei5lcniq2l3tfh/Pre_Slides_Oct042023.pdf?rlkey=93gy8rbu0a2749gxev0pxlwui&dl=0">`[PreSlides_Oct04]`</a>
