@@ -10,7 +10,8 @@ layout: home
 
 I am a Ph.D. candidate in Finance at Smith School of Business, Queen's University.
 
-My research focus on EMPIRICAL Corporate Finance. In particular, corporate bankruptcy and its implications on investment and financing activities.
+`Research Interests:` Corporate Financial Distress, Bankruptcy Law, Institutional Investors, Behavioral Finance, Innovation.
+`Teaching Interests:` Corporate Finance, Investment, Financial Derivatives, Financial Programming (Python/R), Hedge Fund and Private Equity.
 
 `Email:` **[yan.yang@queensu.ca](yan.yang@queensu.ca)**
 
