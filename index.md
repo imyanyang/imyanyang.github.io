@@ -28,10 +28,6 @@ Journal of Alternative Investments
 
 Covered by the [The FinReg Blog](https://sites.law.duke.edu/thefinregblog/2021/09/17/has-post-reorg-equity-outperformed-in-the-last-three-decades/) @Duke University (September 17, 2021)
 
-<a href="https://www.dropbox.com/scl/fi/ktkllyfyng1vzddqd28cj/RealEstatebond_Discussion.pdf?rlkey=jxja9udzuivnca6qhlkbf19qo&dl=0">`[FMADis]`</a>
-<a href="https://www.dropbox.com/scl/fi/bnad8y1cxu3vc4bkt8biv/HedgeFundUCC_Slides_FMA.pdf?rlkey=i6ghn7znv72f41i5frngm6bny&dl=0">`[FMAPre]`</a>
-<a href="https://www.dropbox.com/scl/fi/jta1t9skts3r05h5p36at/HedgeFundUCC_Slides_CELS.pdf?rlkey=g6ed2tgft702ij7tt3r4oss31&dl=0">`[CELS]`</a>
-
 
 `Yan's BLOG:`
 
